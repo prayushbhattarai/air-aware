@@ -101,4 +101,3 @@ Contains the editable KiCad project files:
 
 Contains files used to manufacture the PCB, including Gerber and drill files.
 
-### me
