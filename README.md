@@ -85,27 +85,6 @@ Students use the devices in small groups to:
 
 The goal is to connect environmental science with measurements students collect themselves.
 
-## Repository Structure
-
-```text
-AirAware/
-├── firmware/
-│   └── AirAware_Live/
-│
-├── hardware/
-│   ├── kicad/
-│   └── production/
-│       └── gerbers/
-│
-├── enclosure/
-│
-├── docs/
-│
-├── classroom/
-│
-└── media/
-```
-
 ### firmware
 
 Contains the code running on the ESP32-C3.
@@ -121,17 +100,5 @@ Contains the editable KiCad project files:
 ### hardware/production
 
 Contains files used to manufacture the PCB, including Gerber and drill files.
-
-### enclosure
-
-Contains enclosure design files.
-
-### docs
-
-Contains technical documentation, testing notes, assembly information, and design decisions.
-
-### classroom
-
-Contains lesson materials and student activities developed for AirAware.
 
 ### me
